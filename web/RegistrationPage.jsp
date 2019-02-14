@@ -1,7 +1,7 @@
 <%-- 
     Document   : RegistrationPage
     Created on : Feb 6, 2019, 12:31:35 PM
-    Author     : axelzgiat
+    Author     : HJ Agung
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
