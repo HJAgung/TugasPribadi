@@ -1,7 +1,7 @@
 <%-- 
     Document   : modal
     Created on : Feb 9, 2019, 1:05:25 PM
-    Author     : axelzgiat
+    Author     : HJ Agung
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%><!DOCTYPE html>
