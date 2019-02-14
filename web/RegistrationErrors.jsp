@@ -1,7 +1,7 @@
 <%-- 
     Document   : RegistrationErrors
     Created on : Feb 10, 2019, 10:12:35 AM
-    Author     : axelzgiat
+    Author     : HJ Agung
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
